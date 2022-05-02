@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.Main.resources
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.Properties.Resources.resources
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdrianCanas\bin\Debug\AdrianCanas.exe.config
+C:\Users\Admin\source\repos\AdrianCanas\bin\Debug\AdrianCanas.exe
+C:\Users\Admin\source\repos\AdrianCanas\bin\Debug\AdrianCanas.pdb
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.exe
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.pdb
+C:\Users\Admin\source\repos\AdrianCanas\obj\Debug\AdrianCanas.csproj.ResolveComReference.cache
